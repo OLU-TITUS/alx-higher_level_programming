@@ -1,1 +1,1 @@
-This is a high-level programming course. Welcome to Python
+Python classes & object readme
